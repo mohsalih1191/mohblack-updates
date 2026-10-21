@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
-  "apkUrl": "https://github.com/mohsalih1191/mohblack-updates/releases/download/v1.5/app-release.apk",
-  "releaseNotes": "Redesigned passenger screen: one big text-to-book QR, larger text, 4 services.",
+  "versionCode": 8,
+  "versionName": "1.7",
+  "apkUrl": "https://github.com/mohsalih1191/mohblack-updates/releases/download/v1.7/app-release.apk",
+  "releaseNotes": "Black Tahoe photos, passenger activities (trivia, tic-tac-toe, relax), hourly update checks.",
   "releaseDate": "2026-10-21",
   "forceUpdate": false
 }
