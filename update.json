@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7",
-  "apkUrl": "https://github.com/mohsalih1191/mohblack-updates/releases/download/v1.7/app-release.apk",
-  "releaseNotes": "Black Tahoe photos, passenger activities (trivia, tic-tac-toe, relax), hourly update checks.",
+  "versionCode": 10,
+  "versionName": "1.9",
+  "apkUrl": "https://github.com/mohsalih1191/mohblack-updates/releases/download/v1.9/app-release.apk",
+  "releaseNotes": "Full-screen services showcase when idle, weather from GPS location, boots straight into the app.",
   "releaseDate": "2026-10-21",
   "forceUpdate": false
 }
